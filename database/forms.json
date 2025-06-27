@@ -1,0 +1,7 @@
+{
+    "name": "Contact Form",
+    "fields": {
+        "email": "email",
+        "phone": "phone"
+    }
+}
