@@ -12,7 +12,7 @@
 
 Клонирование репозитория
 
-git clone https://github.com/ваш-логин/form_recognizer.git
+git clone https://github.com/TolstovaDA21/form_recognizer.git
 cd form_recognizer
 
 # Функциональность
